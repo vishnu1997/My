@@ -20,7 +20,7 @@ public class ColorsActivity extends AppCompatActivity {
         words.add(new Word("Lutte","one"));
         words.add(new Word("Lutte","one"));
         words.add(new Word("Lutte","one"));
-        words.add(new Word("Lutte","one"));
+        words.add(new Word("Lutte","eight"));
         words.add(new Word("Lutte","nine"));
         words.add(new Word("Lutte","ten"));
 
