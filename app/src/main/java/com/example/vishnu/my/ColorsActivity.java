@@ -15,14 +15,14 @@ public class ColorsActivity extends AppCompatActivity {
         ArrayList<Word> words = new ArrayList<Word>();
 
         words.add(new Word("Lutte","one"));
+        words.add(new Word("Lutte","two"));
         words.add(new Word("Lutte","one"));
         words.add(new Word("Lutte","one"));
         words.add(new Word("Lutte","one"));
         words.add(new Word("Lutte","one"));
         words.add(new Word("Lutte","one"));
-        words.add(new Word("Lutte","one"));
-        words.add(new Word("Lutte","one"));
-        words.add(new Word("Lutte","one"));
+        words.add(new Word("Lutte","nine"));
+        words.add(new Word("Lutte","ten"));
 
         /*int index = 0;
         LinearLayout root = (LinearLayout)findViewById(R.id.rootView);
