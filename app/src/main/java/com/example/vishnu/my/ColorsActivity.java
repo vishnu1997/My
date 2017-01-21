@@ -18,7 +18,7 @@ public class ColorsActivity extends AppCompatActivity {
         words.add(new Word("Lutte","two"));
         words.add(new Word("Lutte","one"));
         words.add(new Word("Lutte","one"));
-        words.add(new Word("Lutte","one"));
+        words.add(new Word("Lutte","six"));
         words.add(new Word("Lutte","seven"));
         words.add(new Word("Lutte","eight"));
         words.add(new Word("Lutte","nine"));
